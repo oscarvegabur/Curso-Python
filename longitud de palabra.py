@@ -8,7 +8,7 @@ l=len(palabra)
 #En los siguientes codigos se categoriza que repuesta darle al usuario dependiendo de la longitud de su palabra.
 if l <= 3:
   print(f"Hacen falta letras. Tienes {l} letras en tu palabra")
-elif l >= 4 and l <= 8:
+if l >= 4 and l <= 8:
   print(f"La palabra esta en en rango correcto y tiene {l} letras.")
-elif l > 8:
+if l > 8:
   print(f"Sobran letras. Tienes {l} letras en tu palabra ")
