@@ -1,0 +1,2 @@
+En este proyecto se nos indica que el usuario nos de una palabra y nosotros tenemos que analizarla y que entre en unos parametros los cuales son que tiene que tener entre 4 y ocho letras, el codigo tiene que arrojar si
+son menos de las letras requeridas, tiene que arrojar el error que faltan letras y si sobre pasan las ocho tiene que dar la respuetas que esta sobrepasando esa regla y cuantas letras tiene de mas.
