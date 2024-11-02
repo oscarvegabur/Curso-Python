@@ -9,6 +9,6 @@ l=len(palabra)
 if l <= 3:
   print(f"Hacen falta letras. Tienes {l} letras en tu palabra")
 if l >= 4 and l <= 8:
-  print(f"La palabra esta en en rango correcto y tiene {l} letras.")
+  print(f"La palabra esta en el rango correcto y tiene {l} letras.")
 if l > 8:
   print(f"Sobran letras. Tienes {l} letras en tu palabra ")
